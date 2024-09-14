@@ -1,0 +1,4 @@
+Cloud Computing is a technology which offers various services like computing power, storage server etc over the internet withut physical hardware.
+There are 3 types of it such as private cloud , public cloud and hybrid cloud
+There are three models of it 
+They are: IAAS,PAAS,SAAS
